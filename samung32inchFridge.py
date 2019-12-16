@@ -2,10 +2,10 @@
 import sys, os, time
 import tweepy
 keys = dict(
-consumer_key='uqyTOyeaOjsDGVGPAFklXbWtY',
-consumer_secret='5eVxuOcT69KioPyVsSq0LTsBfHOpJZcJhpjKaFhUzFtlMqd0bF',
-access_token='894356272820236288-SWg1Q5ZYGgPXCvihqkoMnxiM7FFv3VY', 
-access_token_secret='t8jtuBztJN4Kjr0EFDtJZxvZyI0yfqtbqBTgvZp1DGDLr'
+consumer_key='',
+consumer_secret='',
+access_token='', 
+access_token_secret=''
 )
 
 user = "@nbendall34"
