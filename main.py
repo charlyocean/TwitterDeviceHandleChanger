@@ -2,6 +2,7 @@
 import sys, os, time
 import tweepy
 keys = dict(
+#Get your keys from: https://developer.twitter.com/en/apps/
 consumer_key='_YOUR_CONSUMER_KEY',
 consumer_secret='_YOUR_SECRET_KEY',
 access_token='_YOUR_ACCESS_TOKEN', 
