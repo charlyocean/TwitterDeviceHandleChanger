@@ -25,7 +25,7 @@ Application description (required)
 This is my app that allows user to change device from "Twitter on x" to whatever they please
 
 Website URL (required)
-https://github.com/{YOUR NAME}
+https://github.com/{YOURNAME}
 
 Allow this application to be used to sign in with Twitter
 Enable Sign in with Twitter: No
