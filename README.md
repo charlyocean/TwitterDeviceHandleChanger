@@ -1,4 +1,4 @@
-# Twitter SOrce Tage Changer
+# Twitter Source Tag Changer
 Made with Tweepy, This is how you run it:
 # Setup
 First off, make sure you have a verified email address linked to your Twitter account.
