@@ -8,7 +8,7 @@ access_token='',
 access_token_secret=''
 )
 
-user = "@nbendall34"
+user = "@YOUR_HANDLE"
 
 auth = tweepy.OAuthHandler(keys['consumer_key'], keys['consumer_secret'])
 auth.set_access_token(keys['access_token'], keys['access_token_secret'])
